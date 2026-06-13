@@ -29,5 +29,3 @@ A Retrieval-Augmented Generation (RAG) chatbot that answers questions about phar
 ## Live Demo
 
 [Coming soon - Streamlit Cloud link]
-
-## Architecture
