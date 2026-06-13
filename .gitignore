@@ -1,0 +1,43 @@
+# Python
+
+venv/
+**pycache**/
+*.pyc
+*.pyo
+*.egg-info/
+
+# Secrets
+
+.env
+.env.local
+
+# ChromaDB
+
+chroma_db/
+
+# IDE
+
+.vscode/
+.idea/
+*.swp
+
+# OS
+
+.DS_Store
+Thumbs.db
+
+# Streamlit
+
+.streamlit/
+
+# Cache
+
+.cache/
+
+# Logs
+
+*.log
+
+# Jupyter
+
+.ipynb_checkpoints/
